@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled files
+*.class
+*.war
+*.ear
+*.jar
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
